@@ -1,0 +1,1 @@
+CAPSULE_PRICE = 10
